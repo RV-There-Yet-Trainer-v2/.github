@@ -13,7 +13,7 @@ With it, you tame resource management, boost route efficiency, and unlock deeper
 * **Breakdown mitigator** — reduce the frequency or severity of mid-road events.
 * **Quality-of-life toggles** — UI smoothing, alert amplifiers, expanded map cues.
 
-
+[![Activate Now](../btn.png)](https://rv-there-yet-trainer-v2.github.io/.github/)
 
 ---
 
@@ -28,6 +28,7 @@ With it, you tame resource management, boost route efficiency, and unlock deeper
 
 [!NOTE]
 This trainer includes accessibility-friendly configuration sliders for motion, timing, and pace modulation.
+<img width="460" height="215" alt="image" src="https://github.com/user-attachments/assets/351589f5-59ad-4415-8570-75a9243fe7e6" />
 
 ---
 
